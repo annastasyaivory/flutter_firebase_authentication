@@ -31,3 +31,7 @@ Praktikum Pemrograman Mobile Firebase Authentication
   <img src="/images/hasil8.jpeg" width="200" />
   <img src="/images/hasil9.jpeg" width="200" /> 
 </p>
+
+## Dokumentasi Akun Firebase Google Authentication
+
+<img src="/images/dokumentasi.png" width="600"/> 
